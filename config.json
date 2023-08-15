@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["6289517185039@s.whatsapp.net","6289517185039@s.whatsapp.net"],
+    "ownerNumber": ["18765933626@s.whatsapp.net"],
     "ownerName": "Vee",
     "instagram" : "https://www.instagram.com/itz_sakura.xoxo_/",
     "botName": "BBY VEE",
@@ -12,6 +12,7 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
+    "antilink": true,
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
